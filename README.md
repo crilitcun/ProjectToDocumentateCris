@@ -1,3 +1,7 @@
+## Documentación JavaDoc
+Puedes consultar la documentación generada aquí:  
+https://crilitcun.github.io/ProjectToDocumentateCris/
+
 En esta actividad, documentaremos el código adjunto. Generaremos una documentación con JavaDoc, y subiremos el repositorio a GitHub.
 Además, crearemos una *Github Page* con la documentación visible y accesible en Internet.
 
